@@ -8,4 +8,33 @@
 
 ----
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  About Me
+```python
+class WhoAmI:
+    def __init__(self):
+        self.name = "salvador"
+        self.username = "salvadorza"
+        self.city = "Algeciras, Spain"
+        self.ambitions = {
+            'BecomeSoftwareEngineer',
+            'FinishMyProjects'
+        }
+        self.hobbies = {
+            'Football',
+            'Gym',
+            'Music'
+        }
+  
+    def getCity(self):
+        return self.city
+    
+    def ambitions(self):
+        return self.ambitions
+
+person = WhoAmI()
+
+
+    
+
+    
+
 
