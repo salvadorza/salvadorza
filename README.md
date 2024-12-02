@@ -37,8 +37,18 @@ person = WhoAmI()
 ## 🛠️ Tech Stack
 
 #### Backend
-![Static Badge](https://img.shields.io/badge/Python-violet?style=flat&logo=Python&logoColor=blue&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/PYTHON-white?style=flat&logo=Python&logoColor=white&labelColor=black&color=c3ab00)
+![Static Badge](https://img.shields.io/badge/SQL-white?style=flat&logo=MySQL&logoColor=white&labelColor=black&color=grey)
+![Static Badge](https://img.shields.io/badge/STREAMLIT-violet?style=flat&logo=Streamlit&logoColor=white&labelColor=black&color=red)
+![Static Badge](https://img.shields.io/badge/DJANGO-white?style=flat&logo=Django&logoColor=white&labelColor=black&color=00681b)
+![Static Badge](https://img.shields.io/badge/NODE.JS-white?style=flat&logo=Node.js&logoColor=white&labelColor=black&color=4db44d)
+![Static Badge](https://img.shields.io/badge/RUST-white?style=flat&logo=Rust&logoColor=white&labelColor=black&color=ff9e00)
 ![Static Badge](https://img.shields.io/badge/Java-violet?style=flat&logoColor=blue&labelColor=black&color=black)
+#### Frontend
+![Static Badge](https://img.shields.io/badge/HTML-white?style=flat&logo=HTML5&logoColor=white&labelColor=black&color=ca6b0d)
+![Static Badge](https://img.shields.io/badge/CSS-white?style=flat&logo=CSS3&logoColor=white&labelColor=black&color=blue)
+
+
 
 
 
