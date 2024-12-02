@@ -69,7 +69,7 @@ person = WhoAmI()
 
 ---
 
-Credits: salvadorza
+Credits: [salvadorza](https://github.com/salvadorza)
 
 Last Edited on: 03/12/2024
 
