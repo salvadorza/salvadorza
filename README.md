@@ -44,6 +44,7 @@ person = WhoAmI()
 ![Static Badge](https://img.shields.io/badge/RUST-white?style=flat&logo=Rust&logoColor=white&labelColor=black&color=ff9e00)
 ![Static Badge](https://img.shields.io/badge/NODE.JS-white?style=flat&logo=Node.js&logoColor=white&labelColor=black&color=4db44d)
 ![Static Badge](https://img.shields.io/badge/JAVA-white?style=flat&logoColor=white&labelColor=black&color=d67700)
+<img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 #### ● Frontend
 ![Static Badge](https://img.shields.io/badge/HTML-white?style=flat&logo=HTML5&logoColor=white&labelColor=black&color=ca6b0d)
@@ -59,6 +60,7 @@ person = WhoAmI()
 ![Static Badge](https://img.shields.io/badge/GIT-white?style=flat&logo=Git&logoColor=white&labelColor=black&color=ff3e00)
 ![Static Badge](https://img.shields.io/badge/GITHUB-white?style=flat&logo=GitHub&logoColor=white&labelColor=black&color=323232)
 ![Static Badge](https://img.shields.io/badge/VS%20CODE-white?style=flat&logoColor=white&labelColor=black&color=007cff)
+
 
 ----
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Connect Me Via
