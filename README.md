@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/salvadorza/salvadorza/main/animacion.svg" width="500" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=60&center=true&vCenter=true&height=100&width=800&lines=Hello!+I'm+Salvador+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG">
 </div>
+
+
 
 <p align="center">
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
@@ -33,7 +35,5 @@ class WhoAmI:
 person = WhoAmI()
 
 
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&width=500&height=120&lines=Hello!+I'm+Salvador+👨‍💻)](https://git.io/typing-svg)
 
 
