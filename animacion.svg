@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 100" width="600" height="100">
-  <rect width="600" height="100" fill="black"/>
-  <text x="50" y="50" fill="none" stroke="white" stroke-width="2" font-size="40" font-family="Arial" stroke-dasharray="400" stroke-dashoffset="400">
-    ¡Hola, GitHub!
-    <animate attributeName="stroke-dashoffset" from="400" to="0" dur="3s" fill="freeze" />
-  </text>
-</svg>
