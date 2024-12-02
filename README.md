@@ -33,8 +33,7 @@ class WhoAmI:
 person = WhoAmI()
 
 
-    
-
-    
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&width=500&height=120&lines=Hello!+I'm+Salvador+👨‍💻)](https://git.io/typing-svg)
 
 
