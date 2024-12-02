@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="800" height="150">
-  <!-- Texto con animación de escritura -->
-  <text x="50" y="100" fill="black" stroke="black" stroke-width="2" font-size="60" font-family="Arial" stroke-dasharray="800" stroke-dashoffset="800">
-    Welcome! I'm Salvador
-    <animate attributeName="stroke-dashoffset" from="800" to="0" dur="4s" fill="freeze" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 120" width="500" height="120" style="background: transparent;">
+  <!-- Texto animado -->
+  <text x="10" y="60" fill="black" font-size="32" font-family="Arial, sans-serif" font-weight="bold" letter-spacing="1">
+    Hello! I'm Salvador 👨‍💻
+    <animate attributeName="textLength" from="0" to="450" dur="6.5s" fill="freeze" />
   </text>
 </svg>
