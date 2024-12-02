@@ -47,6 +47,16 @@ person = WhoAmI()
 #### Frontend
 ![Static Badge](https://img.shields.io/badge/HTML-white?style=flat&logo=HTML5&logoColor=white&labelColor=black&color=ca6b0d)
 ![Static Badge](https://img.shields.io/badge/CSS-white?style=flat&logo=CSS3&logoColor=white&labelColor=black&color=blue)
+![Static Badge](https://img.shields.io/badge/JAVASCRIPT-white?style=flat&logo=JavaScript&logoColor=white&labelColor=black&color=yellow)
+![Static Badge](https://img.shields.io/badge/TYPESCRIPT-white?style=flat&logo=TypeScript&logoColor=white&labelColor=black&color=19aefe)
+![Static Badge](https://img.shields.io/badge/REACTJS-white?style=flat&logo=React&logoColor=white&labelColor=black&color=3a6d89)
+![Static Badge](https://img.shields.io/badge/ASTRO-white?style=flat&logo=Astro&logoColor=white&labelColor=black&color=purple)
+![Static Badge](https://img.shields.io/badge/ANGULAR-white?style=flat&logo=Angular&logoColor=white&labelColor=black&color=ff00e4)
+
+
+
+
+
 
 
 
